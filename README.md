@@ -2,7 +2,7 @@
 iCommenter是一个应用于PyCharm的智能化代码注释生成插件
 
 ## 安装
-1.下载gradlePlugin-1.0-SNAPSHOT.zip
+1.下载iCommenter-1.0-SNAPSHOT.zip
 
 2.打开PyCharm，选择
 - Windows：`File` -> `Settings` -> `Plugins`;
