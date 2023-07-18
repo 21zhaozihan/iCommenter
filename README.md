@@ -1,6 +1,8 @@
 # iCommenter
 iCommenter是一个应用于PyCharm的智能化代码注释生成插件
 
+https://21zhaozihan.github.io/iCommenter/
+
 ## 安装
 1.下载iCommenter-1.0-SNAPSHOT.zip
 
